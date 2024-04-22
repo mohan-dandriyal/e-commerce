@@ -1,0 +1,14 @@
+
+
+.view_product button{
+    background: none !important;
+    border: none !important;
+}
+
+.view_product .primary-btn {
+    background: #383839 !important;
+}
+
+.view_product .first-btn {
+    background: #DB4444  !important;
+}
